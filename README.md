@@ -1,5 +1,7 @@
 # mini-pedidos
 
+[![tests](https://github.com/mfernandex/mini-pedidos/actions/workflows/tests.yml/badge.svg)](https://github.com/mfernandex/mini-pedidos/actions/workflows/tests.yml)
+
 Gestión de pedidos en Python: crear pedidos con items, pagarlos y cancelarlos, con persistencia en SQLite.
 Solo usa la biblioteca estándar (pytest para los tests).
 
